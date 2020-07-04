@@ -10,7 +10,7 @@ body {
     background-color: var(--secondary-color);
     font-family: var(--main-font);
     font-size: 400;
-    letter-spacing: 0.03em
+    letter-spacing: 0.03em;
     color: var(--main-color);
 }
 /*Хедер*/
