@@ -198,5 +198,27 @@ body {
     color:var(--secondary-color)
 }
 
-
-
+/*Секция с примерами работы*/
+.work-examples-subtitle {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color:var(--title-color)
+}
+.work-examples-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.03em;
+    color: var(--main-color);
+}
+.work-examples-desc {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.56;
+    letter-spacing: 0.03em;
+    color:var(--secondary-color);
+    background-color: var(--accent-color);
+    /*Задано свойство background-color для визуализации*/ 
+}
