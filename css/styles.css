@@ -10,6 +10,7 @@ body {
     background-color: var(--secondary-color);
     font-family: var(--main-font);
     font-size: 400;
+    letter-spacing: 0.03em
     color: var(--main-color);
 }
 /*Хедер*/
@@ -49,7 +50,6 @@ body {
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
-    letter-spacing: 0.03em;
     color: var(--title-color);
 }
 .logo .logo-item {
@@ -86,7 +86,6 @@ body {
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
-    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--title-color);
 }
@@ -94,7 +93,6 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
-    letter-spacing: 0.03em;
 }
 /*Напраления работы*/
 .work-direction-title {
@@ -102,7 +100,6 @@ body {
     font-size: 36px;
     line-height: 1.17;
     text-align: center;
-    letter-spacing: 0.03em;
     color: var(--title-color);
 }
 .work-direction-subtitle {
@@ -110,7 +107,6 @@ body {
     font-size: 14px;
     line-height: 16px;
     text-align: center;
-    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--secondary-color);
     background-color: rgba(47, 48, 58, 0.8);
@@ -121,7 +117,6 @@ body {
     font-size: 36px;
     line-height: 1.16;
     text-align: center;
-    letter-spacing: 0.03em;
     color: var(--title-color);
 }
 .team-list-item-name {
@@ -129,7 +124,6 @@ body {
     font-size: 16px;
     line-height: 1.19;
     text-align: center;
-    letter-spacing: 0.03em;
     color: var(--title-color);
 }
 .team-list-item-position {
@@ -137,7 +131,6 @@ body {
     font-size: 16px;
     line-height: 1.19;
     text-align: center;
-    letter-spacing: 0.03em;
 }
 /*Клиенты*/
 .clients-title {
@@ -145,7 +138,6 @@ body {
     font-size: 36px;
     line-height: 1.17;
     text-align: center;
-    letter-spacing: 0.03em;
     color: var(--title-color);
 }
 /*Футер контакты*/
@@ -157,7 +149,6 @@ body {
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
-    letter-spacing: 0.03em;
     color: var(--secondary-color);
 }
 .logo-footer .logo-footer-item {
@@ -168,7 +159,6 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
-    letter-spacing: 0.03em;
     color: var(--secondary-color)
 }
 .footer-mail-link,
@@ -177,7 +167,6 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
-    letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
 .footer-map-link:hover,
@@ -193,7 +182,6 @@ body {
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
-    letter-spacing: 0.03em;
     text-transform: uppercase;
     color:var(--secondary-color)
 }
@@ -210,14 +198,12 @@ body {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.87;
-    letter-spacing: 0.03em;
     color: var(--main-color);
 }
 .work-examples-desc {
     font-weight: normal;
     font-size: 18px;
     line-height: 1.56;
-    letter-spacing: 0.03em;
     color:var(--secondary-color);
     background-color: var(--accent-color);
     /*Задано свойство background-color для визуализации*/ 
